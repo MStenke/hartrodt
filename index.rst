@@ -48,8 +48,6 @@
    4-privatecloud/security/security
    4-privatecloud/files/files
    4-privatecloud/flow_secure_fiesta/flow_secure_fiesta
-   4-privatecloud/beam_cost_governance/beam_cost_governance
-
 
 .. toctree::
    :maxdepth: 3

@@ -57,7 +57,7 @@
    :name: _addon
    :hidden:
 	
-   9-backup/hycu/hycu
+   9-backup/hycu/hycu/hycu
    9-backup/hycu/protecting-applications/protectingapps
    9-backup/hycu/protecting-applications/protectingapps
    9-backup/hycu/protecting-physical/protectingphysical
@@ -83,7 +83,7 @@ Herzlich willkommen auf dem Nutanix Hosted PoC
 
 Diese Nutanix Hosted PoC Webseite führt Sie Schritt für Schritt durch die verschiedenen Labs, sodass Sie eine umfassende praktische Einführung in die Nutanix Technologie erhalten. 
 
-Als Erstes lernen Sie Prism Element kennen und werden mit dessen Funktionen und der Benutzerführung vertraut. Sie werden in diesem Lab Prism Element nutzen um Basis Cluster Administrations-Aufgaben (inkl. Storage und Netzwerk Verwaltung) sowie Basis VM-Deployments und Management-Aufgaben mit Prism und AHV durchzuführen. Weiter werden Sie VM Data Protection Optionen wie Snapshots und Replikationen sowie erweiterte Cluster Funktionalitäten mit Prism Central kennenlernen. Darauf aufbauend folgen weitere Labs die das erlernte Wissen vertiefen und weiter ausbauen. etwa im Hinblick auf Files. Private Cloud oder Backup mit HYCU.
+Als Erstes lernen Sie Prism Element kennen und werden mit dessen Funktionen und der Benutzerführung vertraut. Sie werden in diesem Lab Prism Element nutzen um Basis Cluster Administrations-Aufgaben (inkl. Storage und Netzwerk Verwaltung) sowie Basis VM-Deployments und Management-Aufgaben mit Prism und AHV durchzuführen. Weiter werden Sie VM Data Protection Optionen wie Snapshots und Replikationen sowie erweiterte Cluster Funktionalitäten mit Prism Central kennenlernen. Darauf aufbauend folgen weitere Labs die das erlernte Wissen vertiefen und weiter ausbauen - etwa im Hinblick auf Files, Private Cloud oder Backup mit HYCU.
 
 **In den Labs werden primär folgende Nutanix Produkte verwendet:**
 

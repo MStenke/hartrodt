@@ -1,7 +1,7 @@
 .. _protectingphysical:
 
 ----------------------------------------
-HYCU: Physical Windows Server Protection
+Optional - HYCU: Physical Windows Server Protection
 ----------------------------------------
 
 *The estimated time to complete this lab is 60 minutes.*

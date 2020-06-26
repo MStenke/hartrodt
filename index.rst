@@ -56,7 +56,9 @@
    :caption: HYCU Backup Labs
    :name: _addon
    :hidden:
-
+	
+   9-backup/hycu/hycu
+   9-backup/hycu/protecting-applications/protectingapps
    9-backup/hycu/protecting-applications/protectingapps
    9-backup/hycu/protecting-physical/protectingphysical
    9-backup/hycu/reporting/reporting

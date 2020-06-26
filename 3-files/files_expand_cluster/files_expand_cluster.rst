@@ -1,8 +1,8 @@
 .. _files_expand_cluster:
 
-------------------------
-Files: Expand Cluster
-------------------------
+--------------------------------
+Optional - Files: Expand Cluster
+--------------------------------
 
 Overview
 ++++++++

@@ -1,8 +1,8 @@
 .. _files_deploy:
 
--------------
-Files: Deploy
--------------
+------------------------
+Optional - Files: Deploy
+------------------------
 
 .. _deploying_files:
 

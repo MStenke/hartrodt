@@ -3,9 +3,9 @@
 
 .. _peer:
 
-------------------------
-Peer Global File Service
-------------------------
+-----------------------------------
+Optional - Peer Global File Service
+-----------------------------------
 
 *The estimated time to complete this lab is 60 minutes.*
 

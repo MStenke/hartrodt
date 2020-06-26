@@ -20,8 +20,6 @@
    2-aosandahv/lab_deploy_workloads/lab_deploy_workloads
    2-aosandahv/lab_manage_workloads/lab_manage_workloads
    2-aosandahv/lab_data_protection/lab_data_protection
-   2-aosandahv/image_create/image_create
-   2-aosandahv/lab_image_configuration/lab_image_configuration
 
 .. toctree::
    :maxdepth: 2

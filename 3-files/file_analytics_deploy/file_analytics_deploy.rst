@@ -1,7 +1,7 @@
 .. _file_analytics_deploy:
 
 ----------------------
-File Analytics: Deploy
+Optional - File Analytics: Deploy
 ----------------------
 
 Overview

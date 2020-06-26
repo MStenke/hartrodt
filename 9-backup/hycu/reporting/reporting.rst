@@ -1,7 +1,7 @@
 .. _reporting:
 
 ----------------
-Optional - HYCU: Reporting
+Optional - Reporting
 ----------------
 
 *The estimated time to complete this lab is 60 minutes.*

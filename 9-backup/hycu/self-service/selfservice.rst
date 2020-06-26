@@ -1,7 +1,7 @@
 .. _selfservice:
 
 ------------------
-Optional - HYCU: Self-Service
+Optional - Self-Service
 ------------------
 
 Overview
